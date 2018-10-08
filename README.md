@@ -1,2 +1,2 @@
 # UTCSSA-course-web
-course wen
+course web
